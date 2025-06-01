@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile.
 
-I'm a **Mechatronics and Control Systems Researcher** focused on UAVs, nonlinear control, hybrid systems, electric drives, and real-time robotics. My work spans theory, simulation, hardware, and embedded systems.
+I'm a **Mechatronics and Control Systems Researcher** with a focus on UAVs, nonlinear control, hybrid systems, electric drives, and real-time robotics. My work spans theory, simulation, hardware, and embedded systems.
 
 ## 🧠 Research Interests
 
