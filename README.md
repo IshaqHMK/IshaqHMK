@@ -18,7 +18,6 @@ You can explore my publications on [Google Scholar ↗](https://scholar.google.c
 ## 📂 My Repositories
 
 - 🔒 [quadcopter-plus-cross-frame-attitude-rotation](https://github.com/IshaqHMK/quadcopter-plus-cross-frame-attitude-rotation): Convert roll–pitch from plus to cross frame using 45° matrix — `MATLAB`, `UAV`, `Navio2`
-- 🔒 [optimal-funnel-control-underactuated-systems](https://github.com/IshaqHMK/optimal-funnel-control-underactuated-systems): Switched systems stability using LMIs and funnel optimization — `MATLAB`
 - 🔒 [quadcopter-parameter-variation-feedback-linearzation-p-control](https://github.com/IshaqHMK/quadcopter-parameter-variation-feedback-linearzation-p-control): Adaptive Feedback Linearization under parametric uncertainty — `MATLAB`, `Conference Paper`
 - 🔒 [quadcopter-attitude-altitude-pid-control-simulation](https://github.com/IshaqHMK/quadcopter-attitude-altitude-pid-control-simulation): PID control in MATLAB and Python with 3D animation — `UAV`, `Control`
 - 🔒 [quadcopter-bldc-opticalsensor-speedmeasurement](https://github.com/IshaqHMK/quadcopter-bldc-opticalsensor-speedmeasurement): BLDC RPM estimation using optical sensor — `Python`, `C++`, `Navio2`
