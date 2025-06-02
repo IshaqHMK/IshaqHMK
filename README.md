@@ -7,11 +7,12 @@ I'm a **Mechatronics and Control Systems Researcher** with a focus on UAVs, nonl
 ## 🧠 Research Interests
 
 - Nonlinear & Optimal Control 
-- UAV Dynamics, SLAM, Sensor Fusion  
-- Electric Drives, Flexible-Joint Robots  
-- Metaheuristic Optimization & System Identification  
-- Real-Time Embedded Systems & Robotics  
+- UAV Dynamics, SLAM, Sensor Fusion
 - Switched Systems, LMIs, Lyapunov-based Stability
+- Metaheuristic Optimization & System Identification
+- Electric Drives, Flexible-Joint Robots  
+- Real-Time Embedded Systems & Robotics  
+
 
 You can explore my publications on [Google Scholar ↗](https://scholar.google.com/citations?user=7IBpmcUAAAAJ&hl=en).
 
