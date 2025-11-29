@@ -21,7 +21,6 @@ You can explore my publications on [Google Scholar ↗](https://scholar.google.c
 Note: Several repositories are private (🔒). Feel free to reach out if you want access for collaboration.
 
 - 🔒 [aws-hpc-quickstart](https://github.com/IshaqHMK/aws-hpc-quickstart): Step by step guide to access AUS HPC from Windows using AWS Client VPN and AUS SSO, connect via SSH or Amazon DCV, transfer files with WinSCP, and submit CPU or GPU jobs using Slurm
-- 🔒 [desktop-tutorial](https://github.com/IshaqHMK/desktop-tutorial): GitHub Desktop tutorial repository
 - 🔒 [optimal-funnel-control-underactuated-systems](https://github.com/IshaqHMK/optimal-funnel-control-underactuated-systems): Stability for switched systems and optimal funnel design - `MATLAB`, `Hybrid Systems`, `Switched Systems`, `LMIs`
 - 🔒 [quadcopter-attitude-altitude-pid-control-simulation](https://github.com/IshaqHMK/quadcopter-attitude-altitude-pid-control-simulation): PID control for a quadcopter model in MATLAB and Python with animation - `UAV`, `Control`
 - 🔒 [quadcopter-bldc-opticalsensor-speedmeasurement](https://github.com/IshaqHMK/quadcopter-bldc-opticalsensor-speedmeasurement): Speed measurement for a BLDC drone motor for system identification using optical sensor - `Python`, `C++`, `Navio2`
