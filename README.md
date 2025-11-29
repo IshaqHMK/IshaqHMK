@@ -2,27 +2,34 @@
 
 Welcome to my GitHub profile.
 
-I'm a **Mechatronics and Control Systems Researcher** with a focus on UAVs, nonlinear control, hybrid systems, electric drives, and real-time robotics. My work involves both theoretical analysis and practical validation through simulation and hardware implementation.
+I'm a **Mechatronics and Control Systems Researcher** with a focus on UAVs, nonlinear control, hybrid systems, electric drives, and real time robotics. My work involves both theoretical analysis and practical validation through simulation and hardware implementation.
 
 ## 🧠 Research Interests
 
-- Nonlinear & Optimal Control 
+- Nonlinear and Optimal Control
 - UAV Dynamics, SLAM, Sensor Fusion
-- Switched Systems, LMIs, Lyapunov-based Stability
-- Metaheuristic Optimization & System Identification
-- Electric Drives, Flexible-Joint Robots  
-- Real-Time Embedded Systems & Robotics  
+- Switched Systems, LMIs, Lyapunov based Stability
+- Metaheuristic Optimization and System Identification
+- Electric Drives, Flexible Joint Robots
+- Real Time Embedded Systems and Robotics
 
 
 You can explore my publications on [Google Scholar ↗](https://scholar.google.com/citations?user=7IBpmcUAAAAJ&hl=en).
 
 ## 📂 My Repositories
 
-- 🔒 [quadcopter-plus-cross-frame-attitude-rotation](https://github.com/IshaqHMK/quadcopter-plus-cross-frame-attitude-rotation): Convert roll–pitch from plus to cross frame using 45° matrix — `MATLAB`, `UAV`, `Navio2`
-- 🔒 [quadcopter-parameter-variation-feedback-linearzation-p-control](https://github.com/IshaqHMK/quadcopter-parameter-variation-feedback-linearzation-p-control): Adaptive Feedback Linearization under parametric uncertainty — `MATLAB`, `Conference Paper`
-- 🔒 [quadcopter-attitude-altitude-pid-control-simulation](https://github.com/IshaqHMK/quadcopter-attitude-altitude-pid-control-simulation): PID control in MATLAB and Python with 3D animation — `UAV`, `Control`
-- 🔒 [quadcopter-bldc-opticalsensor-speedmeasurement](https://github.com/IshaqHMK/quadcopter-bldc-opticalsensor-speedmeasurement): BLDC RPM estimation using optical sensor — `Python`, `C++`, `Navio2`
-- 🌐 [grad-electric-drives-project-guide](https://github.com/IshaqHMK/grad-electric-drives-project-guide): PMSM + BLDC control using TI F28379D, Simulink — `Motor Control`, `TI`, `MATLAB`
+Note: Several repositories are private (🔒). Feel free to reach out if you want access for collaboration.
+
+- 🔒 [aws-hpc-quickstart](https://github.com/IshaqHMK/aws-hpc-quickstart): Step by step guide to access AUS HPC from Windows using AWS Client VPN and AUS SSO, connect via SSH or Amazon DCV, transfer files with WinSCP, and submit CPU or GPU jobs using Slurm
+- 🔒 [desktop-tutorial](https://github.com/IshaqHMK/desktop-tutorial): GitHub Desktop tutorial repository
+- 🔒 [optimal-funnel-control-underactuated-systems](https://github.com/IshaqHMK/optimal-funnel-control-underactuated-systems): Stability for switched systems and optimal funnel design - `MATLAB`, `Hybrid Systems`, `Switched Systems`, `LMIs`
+- 🔒 [quadcopter-attitude-altitude-pid-control-simulation](https://github.com/IshaqHMK/quadcopter-attitude-altitude-pid-control-simulation): PID control for a quadcopter model in MATLAB and Python with animation - `UAV`, `Control`
+- 🔒 [quadcopter-bldc-opticalsensor-speedmeasurement](https://github.com/IshaqHMK/quadcopter-bldc-opticalsensor-speedmeasurement): Speed measurement for a BLDC drone motor for system identification using optical sensor - `Python`, `C++`, `Navio2`
+- 🔒 [quadcopter-parameter-variation-feedback-linearzation-p-control](https://github.com/IshaqHMK/quadcopter-parameter-variation-feedback-linearzation-p-control): Adaptive feedback linearization for altitude and attitude control under parameter uncertainty (ISIE 2025) - `MATLAB`, `Conference Paper`
+- 🔒 [quadcopter-plus-cross-frame-attitude-rotation](https://github.com/IshaqHMK/quadcopter-plus-cross-frame-attitude-rotation): Convert roll/pitch commands between plus and cross quadcopter frames using a 45 deg rotation matrix - `MATLAB`, `UAV`, `Navio2`
+- 🔒 [quadrotor-nn-modeling](https://github.com/IshaqHMK/quadrotor-nn-modeling): Neural network model to predict system states (roll, pitch, yaw) from control inputs using flight logs - `Python`, `PyTorch`
+- 🔒 [VBMCCKF-SOC-Estimation](https://github.com/IshaqHMK/VBMCCKF-SOC-Estimation): MATLAB implementation of VBMCCKF for Li ion battery SOC estimation - `MATLAB`
+- 🌐 [grad-electric-drives-project-guide](https://github.com/IshaqHMK/grad-electric-drives-project-guide): PMSM and BLDC control using TI F28379D and Simulink - `Motor Control`, `TI`, `MATLAB`
 
 ## 📫 Get in Touch
 
