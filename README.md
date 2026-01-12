@@ -27,7 +27,7 @@ Note: Several repositories are private (🔒). Feel free to reach out if you wan
 - 🔒 [quadcopter-parameter-variation-feedback-linearzation-p-control](https://github.com/IshaqHMK/quadcopter-parameter-variation-feedback-linearzation-p-control): Adaptive feedback linearization for altitude and attitude control under parameter uncertainty (ISIE 2025) - `MATLAB`, `Conference Paper`
 - 🔒 [quadcopter-plus-cross-frame-attitude-rotation](https://github.com/IshaqHMK/quadcopter-plus-cross-frame-attitude-rotation): Convert roll/pitch commands between plus and cross quadcopter frames using a 45 deg rotation matrix - `MATLAB`, `UAV`, `Navio2`
 - 🔒 [quadrotor-nn-modeling](https://github.com/IshaqHMK/quadrotor-nn-modeling): Neural network model to predict system states (roll, pitch, yaw) from control inputs using flight logs - `Python`, `PyTorch`
-- 🔒 [VBMCCKF-SOC-Estimation](https://github.com/IshaqHMK/VBMCCKF-SOC-Estimation): MATLAB implementation of VBMCCKF for Li ion battery SOC estimation - `MATLAB`
+- 🌐 [VBMCCKF-SOC-Estimation](https://github.com/IshaqHMK/VBMCCKF-SOC-Estimation): MATLAB implementation of VBMCCKF for Li ion battery SOC estimation - `MATLAB`
 - 🌐 [grad-electric-drives-project-guide](https://github.com/IshaqHMK/grad-electric-drives-project-guide): PMSM and BLDC control using TI F28379D and Simulink - `Motor Control`, `TI`, `MATLAB`
 
 ## 📫 Get in Touch
