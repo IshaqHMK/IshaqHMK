@@ -20,7 +20,6 @@ You can explore my publications on [Google Scholar ↗](https://scholar.google.c
 
 Note: Several repositories are private (🔒). Feel free to reach out if you want access for collaboration.
 
-- 🔒 [aws-hpc-quickstart](https://github.com/IshaqHMK/aws-hpc-quickstart): Step by step guide to access AUS HPC from Windows using AWS Client VPN and AUS SSO, connect via SSH or Amazon DCV, transfer files with WinSCP, and submit CPU or GPU jobs using Slurm
 - 🔒 [optimal-funnel-control-underactuated-systems](https://github.com/IshaqHMK/optimal-funnel-control-underactuated-systems): Stability for switched systems and optimal funnel design - `MATLAB`, `Hybrid Systems`, `Switched Systems`, `LMIs`
 - 🔒 [quadcopter-attitude-altitude-pid-control-simulation](https://github.com/IshaqHMK/quadcopter-attitude-altitude-pid-control-simulation): PID control for a quadcopter model in MATLAB and Python with animation - `UAV`, `Control`
 - 🔒 [quadcopter-bldc-opticalsensor-speedmeasurement](https://github.com/IshaqHMK/quadcopter-bldc-opticalsensor-speedmeasurement): Speed measurement for a BLDC drone motor for system identification using optical sensor - `Python`, `C++`, `Navio2`
@@ -29,6 +28,7 @@ Note: Several repositories are private (🔒). Feel free to reach out if you wan
 - 🔒 [quadrotor-nn-modeling](https://github.com/IshaqHMK/quadrotor-nn-modeling): Neural network model to predict system states (roll, pitch, yaw) from control inputs using flight logs - `Python`, `PyTorch`
 - 🌐 [VBMCCKF-SOC-Estimation](https://github.com/IshaqHMK/VBMCCKF-SOC-Estimation): MATLAB implementation of VBMCCKF for Li ion battery SOC estimation - `MATLAB`
 - 🌐 [grad-electric-drives-project-guide](https://github.com/IshaqHMK/grad-electric-drives-project-guide): PMSM and BLDC control using TI F28379D and Simulink - `Motor Control`, `TI`, `MATLAB`
+- 🌐 [aws-hpc-quickstart](https://github.com/IshaqHMK/aws-hpc-quickstart): Step by step guide to access AUS HPC from Windows using AWS Client VPN and AUS SSO, connect via SSH or Amazon DCV, transfer files with WinSCP, and submit CPU or GPU jobs using Slurm
 
 ## 📫 Get in Touch
 
