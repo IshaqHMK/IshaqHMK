@@ -1,17 +1,12 @@
-# 👋 Hi, I'm Ishaq
-
 Welcome to my GitHub profile.
 
-I am a **Mechatronics and Control Systems Researcher** working on UAVs, nonlinear, adaptive, and optimal control, hybrid systems, state estimation, electric drives, and embedded robotic systems. My work combines modeling, analysis, simulation, and hardware validation, with interests spanning flight control, sensor fusion, learning based modeling, and autonomous robotic systems.
-
-## 🧠 Research Interests
+I am a **Mechatronics and Control Systems Researcher** working on modeling, control design, simulation, and hardware validation for UAVs and autonomous robotic systems. My work includes:
 
 * Nonlinear, adaptive, robust, and optimal control
 * UAV dynamics, flight control, and state estimation
 * Hybrid and switched systems, LMIs, and Lyapunov methods
 * System identification, optimization, and learning based modeling
 * Electric drives and flexible joint systems
-* Embedded systems and experimental robotics
 * Aerial robotics and physical interaction
 
 You can explore my publications on [Google Scholar ↗](https://scholar.google.com/citations?user=7IBpmcUAAAAJ&hl=en).
