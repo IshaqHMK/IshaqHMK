@@ -19,7 +19,6 @@ You can explore my publications on [Google Scholar ↗](https://scholar.google.c
 ## 📂 Repositories
 
 Some repositories are private (🔒). Feel free to reach out if you would like access for research or collaboration.
-* 🔒 [mrac-admittance-control-for-aerial-physical-interaction](https://github.com/IshaqHMK/mrac-admittance-control-for-aerial-physical-interaction): MRAC-based admittance control for aerial physical interaction. `UAV`, `Adaptive Control`, `Admittance Control`, `Physical Interaction`
 * 🔒 [optimal-funnel-control-underactuated-systems](https://github.com/IshaqHMK/optimal-funnel-control-underactuated-systems): Stability analysis and funnel control for switched underactuated systems. `MATLAB`, `Hybrid Systems`, `Switched Systems`, `LMIs`
 * 🔒 [quadcopter-attitude-altitude-pid-control-simulation](https://github.com/IshaqHMK/quadcopter-attitude-altitude-pid-control-simulation): Quadcopter altitude and attitude PID control in MATLAB and Python with animation. `UAV`, `Control`
 * 🔒 [quadcopter-bldc-opticalsensor-speedmeasurement](https://github.com/IshaqHMK/quadcopter-bldc-opticalsensor-speedmeasurement): BLDC motor speed measurement for system identification using an optical sensor. `Python`, `C++`, `Navio2`
