@@ -11,7 +11,7 @@ I am a **Mechatronics and Control Systems Researcher** working on modeling, cont
 
 You can explore my publications on [Google Scholar ↗](https://scholar.google.com/citations?user=7IBpmcUAAAAJ&hl=en).
 
-## 📂 Repositories
+### Repositories
 
 Some repositories are private (🔒). Feel free to reach out if you would like access for research or collaboration.
 * 🔒 [optimal-funnel-control-underactuated-systems](https://github.com/IshaqHMK/optimal-funnel-control-underactuated-systems): Stability analysis and funnel control for switched underactuated systems. `MATLAB`, `Hybrid Systems`, `Switched Systems`, `LMIs`
@@ -27,7 +27,7 @@ Some repositories are private (🔒). Feel free to reach out if you would like a
 * 🌐 [grad-electric-drives-project-guide](https://github.com/IshaqHMK/grad-electric-drives-project-guide): PMSM and BLDC control using the TI F28379D and Simulink. `motor-control`, `field-oriented-control`, `launchxl-f28379d`
 * 🌐 [aws-hpc-quickstart](https://github.com/IshaqHMK/aws-hpc-quickstart): Guide for accessing AUS HPC from Windows using AWS Client VPN, AUS SSO, SSH, Amazon DCV, WinSCP, and Slurm.
 
-## 📫 Contact
+## Contact
 
 I am open to collaboration in control, robotics, and mechatronics R&D.
 
