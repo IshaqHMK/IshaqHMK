@@ -11,9 +11,8 @@ I am a **Mechatronics and Control Systems Researcher** working on modeling, cont
 
 You can explore my publications on [Google Scholar ↗](https://scholar.google.com/citations?user=7IBpmcUAAAAJ&hl=en).
 
-### Repositories
+Selected repositories are listed below. Private repositories (🔒) may be shared for research or collaboration.
 
-Some repositories are private (🔒). Feel free to reach out if you would like access for research or collaboration.
 * 🔒 [optimal-funnel-control-underactuated-systems](https://github.com/IshaqHMK/optimal-funnel-control-underactuated-systems): Stability analysis and funnel control for switched underactuated systems. `MATLAB`, `Hybrid Systems`, `Switched Systems`, `LMIs`
 * 🔒 [quadcopter-attitude-altitude-pid-control-simulation](https://github.com/IshaqHMK/quadcopter-attitude-altitude-pid-control-simulation): Quadcopter altitude and attitude PID control in MATLAB and Python with animation. `UAV`, `Control`
 * 🔒 [quadcopter-bldc-opticalsensor-speedmeasurement](https://github.com/IshaqHMK/quadcopter-bldc-opticalsensor-speedmeasurement): BLDC motor speed measurement for system identification using an optical sensor. `Python`, `C++`, `Navio2`
@@ -26,8 +25,6 @@ Some repositories are private (🔒). Feel free to reach out if you would like a
 * 🌐 [battery-soc-estimation-matlab-vbmcckf](https://github.com/IshaqHMK/battery-soc-estimation-matlab-vbmcckf): MATLAB implementation of the Variational Bayesian Maximum Correntropy Cubature Kalman Filter for Li ion battery SOC estimation. `battery-management-system`, `state-of-charge`, `state-estimation`
 * 🌐 [grad-electric-drives-project-guide](https://github.com/IshaqHMK/grad-electric-drives-project-guide): PMSM and BLDC control using the TI F28379D and Simulink. `motor-control`, `field-oriented-control`, `launchxl-f28379d`
 * 🌐 [aws-hpc-quickstart](https://github.com/IshaqHMK/aws-hpc-quickstart): Guide for accessing AUS HPC from Windows using AWS Client VPN, AUS SSO, SSH, Amazon DCV, WinSCP, and Slurm.
-
-## Contact
 
 I am open to collaboration in control, robotics, and mechatronics R&D.
 
