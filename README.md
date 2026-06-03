@@ -29,5 +29,3 @@ Selected repositories are listed below. Private repositories (🔒) may be share
 I am open to collaboration in control, robotics, and mechatronics research.
 
 Reach me at [ishaq.hmk@gmail.com](mailto:ishaq.hmk@gmail.com).
-
-If you were instructed by R. D. to contact me, please copy [ors@aus.edu](mailto:ors@aus.edu) in your email.
