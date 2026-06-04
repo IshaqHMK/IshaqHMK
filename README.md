@@ -1,17 +1,10 @@
 Welcome to my GitHub profile.
 
-I am a **Mechatronics and Control Systems Researcher** working on modeling, control design, simulation, and hardware validation for UAVs and autonomous robotic systems. My work includes:
-
-* Nonlinear, adaptive, robust, and optimal control
-* UAV dynamics, flight control, and state estimation
-* Hybrid and switched systems, LMIs, and Lyapunov methods
-* System identification, optimization, and learning based modeling
-* Electric drives and flexible joint systems
-* Aerial robotics and physical interaction
+I am a PhD student at the University of Auckland, working on control methods for aerial manipulators in physical interaction. I hold an MSc in Mechatronics Engineering and a BSc in Mechanical Engineering, and previously worked as a Research Assistant at the American University of Sharjah on UAV control, state estimation, system identification, electric drives, and experimental robotic platforms. My research focuses on adaptive and robust control, hybrid and switched systems, sensor fusion, optimization, and experimental validation. I also collaborate with the University of Vermont on hybrid control for switched systems, with applications to lunar hopping and landing systems.
 
 You can explore my publications on [Google Scholar ↗](https://scholar.google.com/citations?user=7IBpmcUAAAAJ&hl=en).
 
-Selected repositories are listed below. Private repositories (🔒) may be shared for research or collaboration.
+Selected repositories are listed below. Private repositories (🔒) may be shared for collaboration.
 
 * 🔒 [optimal-funnel-control-underactuated-systems](https://github.com/IshaqHMK/optimal-funnel-control-underactuated-systems): Stability analysis and funnel control for switched underactuated systems. `MATLAB`, `Hybrid Systems`, `Switched Systems`, `LMIs`
 * 🔒 [quadcopter-attitude-altitude-pid-control-simulation](https://github.com/IshaqHMK/quadcopter-attitude-altitude-pid-control-simulation): Quadcopter altitude and attitude PID control in MATLAB and Python with animation. `UAV`, `Control`
