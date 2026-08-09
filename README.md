@@ -12,10 +12,10 @@ Selected repositories are listed below. Private repositories (🔒) may be share
 * 🔒 [quadcopter-parameter-variation-feedback-linearzation-p-control](https://github.com/IshaqHMK/quadcopter-parameter-variation-feedback-linearzation-p-control): Adaptive feedback linearization under parameter uncertainty. 
 * 🔒 [quadcopter-plus-cross-frame-attitude-rotation](https://github.com/IshaqHMK/quadcopter-plus-cross-frame-attitude-rotation): roll and pitch motion between plus and cross quadcopter frames. `Navio2`
 * 🔒 [quadrotor-nn-modeling](https://github.com/IshaqHMK/quadrotor-nn-modeling): MLP based quadrotor dynamics learning from flight logs. `PyTorch`, `scikit-learn`
-* 🌐 [uav-modeling-identification-control-with-neural-networks](https://github.com/IshaqHMK/uav-modeling-identification-control-with-neural-networks): Quadcopter modeling and PID imitation using recurrent neural networks.
-* 🌐 [navio2-quadcopter-autopilot-stack](https://github.com/IshaqHMK/navio2-quadcopter-autopilot-stack): Quadcopter autopilot stack for Raspberry Pi 4 and Navio2 with sensor drivers, IMU filtering, logging, and control experiments. `Python`, `Navio2`, `UAV`, `Control`, `State Estimation`
-* 🌐 [uav-4dof-test-stand-3dprint-mastercam](https://github.com/IshaqHMK/uav-4dof-test-stand-3dprint-mastercam): Design files for a 4DOF UAV test stand with 3D printed parts and Mastercam files. `UAV`, `4DOF`, `3D Printing`, `Mastercam`, `CAD/CAM`
-* 🌐 [battery-soc-estimation-matlab-vbmcckf](https://github.com/IshaqHMK/battery-soc-estimation-matlab-vbmcckf): MATLAB implementation of the Variational Bayesian Maximum Correntropy Cubature Kalman Filter for Li ion battery SOC estimation. `battery-management-system`, `state-of-charge`, `state-estimation`
+* 🌐 [uav-modeling-identification-control-with-neural-networks](https://github.com/IshaqHMK/uav-modeling-identification-control-with-neural-networks): Quadcopter modeling and PID imitation using RNN.
+* 🌐 [navio2-quadcopter-autopilot-stack](https://github.com/IshaqHMK/navio2-quadcopter-autopilot-stack): Quadcopter autopilot stack for RPi and Navio2. 
+* 🌐 [uav-4dof-test-stand-3dprint-mastercam](https://github.com/IshaqHMK/uav-4dof-test-stand-3dprint-mastercam):  UAV test stand with 3D printed parts and Mastercam files.  
+* 🌐 [battery-soc-estimation-matlab-vbmcckf](https://github.com/IshaqHMK/battery-soc-estimation-matlab-vbmcckf): Variational Bayesian Maximum Correntropy Cubature Kalman Filter for Li ion battery SOC estimation.  
 * 🌐 [grad-electric-drives-project-guide](https://github.com/IshaqHMK/grad-electric-drives-project-guide): PMSM and BLDC control using the TI F28379D and Simulink. `motor-control`, `field-oriented-control`, `launchxl-f28379d`
 
 I am open to research collaborations in systems and control theory, autonomous robotics, and mechatronics. Reach me at [ishaq.hmk@gmail.com](mailto:ishaq.hmk@gmail.com).
