@@ -18,4 +18,4 @@ Selected repositories are listed below. Private repositories (🔒) may be share
 * 🌐 [battery-soc-estimation-matlab-vbmcckf](https://github.com/IshaqHMK/battery-soc-estimation-matlab-vbmcckf): Variational Bayesian Maximum Correntropy Cubature Kalman Filter for SOC estimation.  
 * 🌐 [grad-electric-drives-project-guide](https://github.com/IshaqHMK/grad-electric-drives-project-guide): PMSM and BLDC control using the TI F28379D and Simulink.  
 
-I am open to research collaborations in systems and control theory, autonomous robotics, and mechatronics. Reach me at [ishaq.hmk@gmail.com](mailto:ishaq.hmk@gmail.com).
+I am open to research collaborations in systems and control theory, autonomous robotics, and mechatronics. 
