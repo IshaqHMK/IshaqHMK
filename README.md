@@ -10,8 +10,8 @@ Selected repositories are listed below. Private repositories (🔒) may be share
 * 🔒 [quadcopter-attitude-altitude-pid-control-simulation](https://github.com/IshaqHMK/quadcopter-attitude-altitude-pid-control-simulation): Quadcopter altitude and attitude PID control.  
 * 🔒 [quadcopter-bldc-opticalsensor-speedmeasurement](https://github.com/IshaqHMK/quadcopter-bldc-opticalsensor-speedmeasurement): BLDC motor speed measurement for system identification.
 * 🔒 [quadcopter-parameter-variation-feedback-linearzation-p-control](https://github.com/IshaqHMK/quadcopter-parameter-variation-feedback-linearzation-p-control): Adaptive feedback linearization under parameter uncertainty. 
-* 🔒 [quadcopter-plus-cross-frame-attitude-rotation](https://github.com/IshaqHMK/quadcopter-plus-cross-frame-attitude-rotation): roll and pitch motion between plus and cross quadcopter frames. `Navio2`
-* 🔒 [quadrotor-nn-modeling](https://github.com/IshaqHMK/quadrotor-nn-modeling): MLP based quadrotor dynamics learning from flight logs. `PyTorch`, `scikit-learn`
+* 🔒 [quadcopter-plus-cross-frame-attitude-rotation](https://github.com/IshaqHMK/quadcopter-plus-cross-frame-attitude-rotation): roll and pitch motion between plus and cross quadcopter frames. 
+* 🔒 [quadrotor-nn-modeling](https://github.com/IshaqHMK/quadrotor-nn-modeling): MLP based quadrotor dynamics learning from flight logs. 
 * 🌐 [uav-modeling-identification-control-with-neural-networks](https://github.com/IshaqHMK/uav-modeling-identification-control-with-neural-networks): Quadcopter modeling and PID imitation using RNN.
 * 🌐 [navio2-quadcopter-autopilot-stack](https://github.com/IshaqHMK/navio2-quadcopter-autopilot-stack): Quadcopter autopilot stack for RPi and Navio2. 
 * 🌐 [uav-4dof-test-stand-3dprint-mastercam](https://github.com/IshaqHMK/uav-4dof-test-stand-3dprint-mastercam):  UAV test stand with 3D printed parts and Mastercam files.  
