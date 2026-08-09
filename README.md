@@ -17,6 +17,5 @@ Selected repositories are listed below. Private repositories (🔒) may be share
 * 🌐 [uav-4dof-test-stand-3dprint-mastercam](https://github.com/IshaqHMK/uav-4dof-test-stand-3dprint-mastercam): Design files for a 4DOF UAV test stand with 3D printed parts and Mastercam files. `UAV`, `4DOF`, `3D Printing`, `Mastercam`, `CAD/CAM`
 * 🌐 [battery-soc-estimation-matlab-vbmcckf](https://github.com/IshaqHMK/battery-soc-estimation-matlab-vbmcckf): MATLAB implementation of the Variational Bayesian Maximum Correntropy Cubature Kalman Filter for Li ion battery SOC estimation. `battery-management-system`, `state-of-charge`, `state-estimation`
 * 🌐 [grad-electric-drives-project-guide](https://github.com/IshaqHMK/grad-electric-drives-project-guide): PMSM and BLDC control using the TI F28379D and Simulink. `motor-control`, `field-oriented-control`, `launchxl-f28379d`
-* 🌐 [aws-hpc-quickstart](https://github.com/IshaqHMK/aws-hpc-quickstart): Guide for accessing AUS HPC from Windows using AWS Client VPN, AUS SSO, SSH, Amazon DCV, WinSCP, and Slurm.
 
 I am open to research collaborations in systems and control theory, autonomous robotics, and mechatronics. Reach me at [ishaq.hmk@gmail.com](mailto:ishaq.hmk@gmail.com).
