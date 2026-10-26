@@ -6,7 +6,7 @@ You can explore my publications on [Google Scholar ↗](https://scholar.google.c
 
 Selected repositories are listed below. Private repositories (🔒) may be shared for collaboration.
 
-* 🔒 [optimal-funnel-control-underactuated-systems](https://github.com/IshaqHMK/optimal-funnel-control-underactuated-systems): Stability analysis and funnel control for hybrid switched systems (UVM).  
+* 🔒 [optimal-funnel-control-underactuated-systems](https://github.com/IshaqHMK/optimal-funnel-control-underactuated-systems): Stability analysis and funnel control for hybrid switched systems.  
 * 🔒 [quadcopter-attitude-altitude-pid-control-simulation](https://github.com/IshaqHMK/quadcopter-attitude-altitude-pid-control-simulation): Quadcopter altitude and attitude PID control.  
 * 🔒 [quadcopter-bldc-opticalsensor-speedmeasurement](https://github.com/IshaqHMK/quadcopter-bldc-opticalsensor-speedmeasurement): BLDC motor speed measurement for system identification.
 * 🔒 [quadcopter-parameter-variation-feedback-linearzation-p-control](https://github.com/IshaqHMK/quadcopter-parameter-variation-feedback-linearzation-p-control): Adaptive feedback linearization under parameter uncertainty. 
